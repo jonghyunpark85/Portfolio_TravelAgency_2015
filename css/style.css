@@ -1,0 +1,36 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body{
+	background-color: #c8b39a;
+	background-image: url(../img/back.png) repeat;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+#wrap {
+	width: 100%;
+	Height: 100%;
+}
+	
+/*----------- Top Social -------*/
+
+.social-link {
+	background-color:#393939;
+	height: 50px;
+	list-style: none;
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+}
+.social-link li {
+	float:left;
+	margin-left: 20px;
+}
+
+/*----------- header -------*/
+
+.main-logo {
+	width: 476px;
+	Height: 265px;
+	text-align: center;
+	}
